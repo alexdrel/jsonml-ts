@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="240" viewBox="0 0 480 240" font-family="sans-serif">
+  <rect width="480" height="240" fill="#f3f1ea"/>
+  <text x="24" y="36" font-size="20" fill="#334155">Release plan</text>
+  <g id="plan" transform="translate(24 60)">
+    <rect width="204" height="144" rx="12" fill="white" stroke="#cbd5e1"/>
+    <g class="avatar-placeholder">
+      <rect x="16" y="16" width="40" height="40" rx="8" fill="#dbeafe"/>
+      <text x="36" y="36" text-anchor="middle" dominant-baseline="central" font-size="14" fill="#1e40af">AD</text>
+    </g>
+    <text x="16" y="88" fill="#334155">Plan</text>
+    <text x="16" y="112" font-size="12" fill="#64748b">Agree on scope</text>
+  </g>
+  <g id="build" transform="translate(252 60)">
+    <rect width="204" height="144" rx="12" fill="white" stroke="#cbd5e1"/>
+    <g class="avatar-placeholder">
+      <rect x="16" y="16" width="40" height="40" rx="8" fill="#dbeafe"/>
+      <text x="36" y="36" text-anchor="middle" dominant-baseline="central" font-size="14" fill="#1e40af">SK</text>
+    </g>
+    <text x="16" y="88" fill="#334155">Build</text>
+    <text x="16" y="112" font-size="12" fill="#64748b">Ship the first slice</text>
+  </g>
+</svg>

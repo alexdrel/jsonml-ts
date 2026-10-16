@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="240" viewBox="0 0 480 240" font-family="sans-serif">
+  <rect width="480" height="240" fill="#f3f1ea"/>
+  <text x="24" y="36" font-size="20" fill="#334155">Release plan</text>
+  <g id="plan" transform="translate(24 60)">
+    <rect width="204" height="144" rx="12" fill="white" stroke="#cbd5e1"/>
+    <image x="16" y="16" width="40" height="40" href="https://example.invalid/alex.png" data-initials="AD"/>
+    <text x="16" y="88" fill="#334155">Draft: Plan</text>
+    <text x="16" y="112" font-size="12" fill="#64748b">Agree on scope</text>
+    <g class="editor-only"><rect width="204" height="144" rx="12" fill="none" stroke="#2563eb" stroke-dasharray="4 3"/></g>
+  </g>
+  <g id="build" transform="translate(252 60)">
+    <rect width="204" height="144" rx="12" fill="white" stroke="#cbd5e1"/>
+    <image x="16" y="16" width="40" height="40" href="https://example.invalid/sam.png" data-initials="SK"/>
+    <text x="16" y="88" fill="#334155">Draft: Build</text>
+    <text x="16" y="112" font-size="12" fill="#64748b">Ship the first slice</text>
+  </g>
+  <g id="editor-overlays">
+    <g id="selection-layer"><g class="editor-only"><circle cx="228" cy="204" r="4" fill="#2563eb"/></g></g>
+  </g>
+</svg>

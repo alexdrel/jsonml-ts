@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog title="Tea shop">
+  <item id="green-tea" price="12" stock="8"/>
+  <item id="black-tea" price="10" stock="5"/>
+  <note lang="en">Prices are per tin.</note>
+</catalog>

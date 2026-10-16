@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<release-note product="Topos" xmlns:docs="urn:example:docs">
+  <!-- Editorial: keep the Topos product identifier and documentation URL. -->
+  <title>Introducing Topos</title>
+  <p>Create diagrams with <em>Topos</em>, directly from plain text.</p>
+  <p>Read the <link href="/Topos/guide">Topos guide</link> to get started.</p>
+  <docs:note>Topos works with existing editor workflows.</docs:note>
+  <example><![CDATA[<diagram tool="Topos">
+  <label>Made with Topos</label>
+</diagram>]]></example>
+</release-note>
