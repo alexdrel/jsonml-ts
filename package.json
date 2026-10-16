@@ -1,6 +1,6 @@
 {
   "name": "@alexdrel/jsonml-ts",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "JsonML for TypeScript: create, traverse, edit, and serialize XML, HTML, and SVG as ordinary arrays.",
   "keywords": [
     "jsonml",
